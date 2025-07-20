@@ -8,4 +8,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://riiid.qria.net/sitemap.xml
+Sitemap: https://riiid.qria.net/sitemap.xml
